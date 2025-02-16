@@ -108,7 +108,7 @@ nav ul li {
     background-color: #343a40;
   }
   &:hover {
-    transform: translateZ(40px) rotateY(360deg);
+    transform: translateZ(30px);
   }
 }
 /* footer */
